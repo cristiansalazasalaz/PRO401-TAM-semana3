@@ -1,0 +1,6 @@
+# Java
+*.class
+*.log
+*.iml
+out/
+target/
