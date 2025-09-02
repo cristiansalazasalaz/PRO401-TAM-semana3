@@ -37,6 +37,6 @@
 #        System.out.println("El tipo de combustible es: " + combustible); // Imprime "combustible"
 #        System.out.println("Tiene una capacidad de " + capacidad + " pasajeros."); // Imprime "capacidad"
 
-        sc.close(); // Cierra el scanner
-    } // Fin de main
-} // Fin de clase Vehiculo
+#        sc.close(); // Cierra el scanner
+#    } // Fin de main
+# } // Fin de clase Vehiculo
